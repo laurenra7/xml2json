@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<catalog>
+  <movie>
+    <title>Ant Man</title>
+    <rating>PG-13</rating>
+    <length>1:57</length>
+  </movie>
+  <movie>
+    <title>Groundhog Day</title>
+    <rating>PG</rating>
+    <length>1:41</length>
+  </movie>
+  <movie>
+    <title>Planes, Trains and Automobiles</title>
+    <rating>R</rating>
+    <length>1:32</length>
+  </movie>
+  <movie>
+    <title>Ratatouille</title>
+    <rating>G</rating>
+    <length>1:51</length>
+  </movie>
+</catalog>
